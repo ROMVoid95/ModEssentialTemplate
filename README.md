@@ -1,2 +1,1 @@
-# ModEssentialTemplate
-template
+## ReadMe
